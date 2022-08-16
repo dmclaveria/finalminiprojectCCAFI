@@ -1,0 +1,39 @@
+/*contact details style*/
+#est{
+    height: 90vh;
+}
+/*careeer detail style*/
+#landingcareer{
+    height: 90vh;
+}
+header {
+    width: 100%; 
+    background-repeat: no-repeat;
+}
+
+.offset {
+    position: relative;
+    top: -250px;
+    opacity: 95%;
+}
+#eduheader {
+    height: 100vh;
+    width: 100%; 
+    background-color: rgba(160, 40, 110, 0.2);
+}  
+.navpink {
+    background-color: #FF8FB1;
+
+} 
+.navbar ul{
+    font-size: 15px;   
+} 
+
+#osprincon img{
+    float: right;
+    margin-left: 1rem;
+}
+#navmenu ul li a{
+    font-size: larger;
+    color: red;
+}
